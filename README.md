@@ -5,9 +5,16 @@
 
 A real-time global chatroom where everyone connects in one lively conversation. Built with Flutter and powered by Firebase for instant messaging.
 
-<p align="center">
-  <img src="screenshots/app_demo.gif" width="300" alt="App Demo">
-</p>
+## 📸 Screenshots
+
+<div align="center">
+  <img src="screenshots/splash_screen.png" width="30%" alt="Splash Screen">
+  <img src="screenshots/login_screen.png" width="30%" alt="Login Screen"> 
+</div>
+
+<div align="center">
+  <img src="screenshots/chat_screen.png" width="45%" alt="Main Chat Screen">
+</div>
 
 ## ✨ Features
 
